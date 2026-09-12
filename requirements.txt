@@ -1,0 +1,9 @@
+Name: opencv-python
+Version: 4.12.0.88
+
+Name: numpy
+Version: 2.2.6
+
+Name: PyQt5
+Version: 5.15.11
+
